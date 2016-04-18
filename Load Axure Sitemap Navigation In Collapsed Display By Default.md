@@ -96,7 +96,7 @@ function generateNode(node) {
  Note: Depending on your version of Windows, you may need administrative privileges
  ```
   
- * __If you would prefer, I have included an already modified sitemap.js that you can download and drop in.  Download it [here](http://matticus.pbworks.com/w/file/58294335/sitemap.js).__
+ * __If you would prefer, I have included an already modified sitemap.js that you can download and drop in.  Download it [here](sitemap.js).__
  
 After you generate your next prototype, you may need to clear your browser cache for the change to be visible, if a version of the prototype has been loaded previously. 
  
